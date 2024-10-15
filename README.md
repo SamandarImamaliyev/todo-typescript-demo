@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+1. Redux toolkit is used as a state management library,
+2. Tailwind css is used
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
