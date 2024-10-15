@@ -1,4 +1,3 @@
-import { TodoType } from '../types/TodoInitialState'
 import { GrEdit } from 'react-icons/gr'
 import { RiDeleteBinLine } from 'react-icons/ri'
 import { useDispatch } from 'react-redux'
